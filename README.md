@@ -7,7 +7,7 @@ A language used to store, manage, and retrieve data in relational databases.
 
 🔹 What is DDL?
 DDL (Data Definition Language) is used to create, modify, and delete database structures.
-
+```
 📘 Key DDL Commands (Short)
 CREATE – Create database/table
 ALTER – Add/modify/drop columns
@@ -25,3 +25,4 @@ UNIQUE – No duplicate values
 CHECK – Validates value rules
 DEFAULT – Sets automatic value
 FOREIGN KEY – Links tables
+```
