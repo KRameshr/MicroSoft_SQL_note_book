@@ -93,7 +93,6 @@ set column_name = value where condition
 set column_name1 = value1,col_name2 = value2 where condition
 
 where clause used to filter the data based on condition 
-
 select * from Emp_details  where  Salary > 500000
 
 update Emp_details 
@@ -115,15 +114,13 @@ select * from Emp_details
 
 
 data control language
-
- grant this gives users access privileags to the database
+grant this gives users access privileags to the database
 
  syntax 
    grant select ,update on my_table to some_user, ANother_user;
 
    example
    grant update on employee to 'SHUBHAM'
-
 revoke is use dto withdraw the access
 sytax
   revoke select ,update on my_table from user1, user2
@@ -135,5 +132,6 @@ sytax
   commit : is used to commit a transcation
   rollback : is to revert the change in case of any error
   savepoint : is used to save a transaction
+
 
 
