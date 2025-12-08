@@ -1,3 +1,4 @@
+```
 📘 Microsoft SQL Notebook
 
 A continuously growing SQL learning notebook where I practice and document SQL concepts using Microsoft SQL Server.
@@ -35,3 +36,4 @@ Daily learning & progress
 🟢 Work in progress
 📅 Updated daily
 📌 More chapters coming
+```
