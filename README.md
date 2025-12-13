@@ -14,10 +14,10 @@ What this repo includes
 Chapters
 Part	              Topic	                                              File
  1	     SQL Basics, DDL Commands	                                    SQLQuery1.sql
- 2	     DML, Filtering, Clauses	                                    SQLQuery2.sql
- 3	     Joins, Keys, Subqueries	                                    SQLQuery3.sql
+ 2	     DML, Filtering, Clauses	                                     SQLQuery2.sql
+ 3	     Joins, Keys, Subqueries	                                     SQLQuery3.sql
  4	     Operators, LIKE, Grouping	                                   SQLQuery4.sql
- 5	     Advanced Concepts: PIVOT/UNPIVOT, Functions	                SQLQuery5.sql
+ 5	     Advanced Concepts: PIVOT/UNPIVOT, Functions	                 SQLQuery5.sql
 
 
 
