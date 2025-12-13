@@ -10,7 +10,6 @@ What this repo includes
 ✔ Commands & syntax
 ✔ Examples using my own sample data
 ✔ Practical queries
-✔ Notes added day-by-day
 
 Chapters
 Part	Topic	File
@@ -18,6 +17,7 @@ Part 1	SQL Basics, DDL Commands	SQLQuery1.sql
 Part 2	DML, Filtering, Clauses	SQLQuery2.sql
 Part 3	Joins, Keys, Subqueries	SQLQuery3.sql
 Part 4	Operators, LIKE, Grouping	SQLQuery4.sql
+Part 5	Advanced Concepts: PIVOT/UNPIVOT, Functions	SQLQuery5.sql
 
 
 
