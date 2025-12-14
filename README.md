@@ -1,8 +1,7 @@
 ```
 Microsoft SQL Notebook
 
-A continuously growing SQL learning notebook where I practice and document SQL concepts using Microsoft SQL Server.
-This repository includes short notes, sample queries, and practical exercises I use for Backend & MERN development learning.
+This repository includes short notes, sample queries, and practical exercises
 
 What this repo includes
 
