@@ -17,6 +17,7 @@ Part	              Topic	                                              File
  3	     Joins, Keys, Subqueries	                                     SQLQuery3.sql
  4	     Operators, LIKE, Grouping	                                    SQLQuery4.sql
  5	     Advanced Concepts: PIVOT/UNPIVOT, Functions	                 SQLQuery5.sql
+ 6	     Advanced Concepts: PIVOT/UNPIVOT, Functions	                 SQLQuery6.sql
 
 
 
