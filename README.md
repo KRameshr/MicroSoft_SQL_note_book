@@ -18,6 +18,7 @@ Part	              Topic	                                              File
  4	     Operators, LIKE, Grouping	                                   SQLQuery4.sql
  5	     Advanced Concepts: PIVOT/UNPIVOT, Functions	                 SQLQuery5.sql
  6	     Advanced Concepts: Indexes, Subqueries & Views               SQLQuery6.sql
+ 7      Stored Procedures, Transactions & TCL                        SQLQuery7.sql
 
 
 
