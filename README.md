@@ -19,7 +19,8 @@ Part	              Topic	                                              File
  5	     Advanced Concepts: PIVOT/UNPIVOT, Functions	                 SQLQuery5.sql
  6	     Advanced Concepts: Indexes, Subqueries & Views               SQLQuery6.sql
  7      Stored Procedures, Transactions & TCL                        SQLQuery7.sql
-
+SQL_Case_Studies
+1       Sales & Business Analytics                                 SQL_Case_Studies/Sales_Business_Analytics_CaseStudy.sql 
 
 
 
