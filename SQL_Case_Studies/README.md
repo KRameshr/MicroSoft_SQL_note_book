@@ -98,8 +98,6 @@ As a Database Developer for an international bank, the goal is to analyze custom
 
 ## Author
 **K Ramesh**  
-- LinkedIn: [Your LinkedIn link]  
-- GitHub: [Your GitHub link]  
 
 ---
 
