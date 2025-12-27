@@ -9,6 +9,9 @@ This repository includes short notes, sample queries, and practical exercises.
 - ✔ Commands & syntax  
 - ✔ Examples using my own sample data  
 - ✔ Practical queries  
+- ✔ Real-world SQL Case Studies:
+    - Sales & Business Analytics
+    - Banking Customer Transaction Analysis
 
 ---
 
