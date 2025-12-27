@@ -21,7 +21,7 @@ Part	              Topic	                                              File
  7      Stored Procedures, Transactions & TCL                        SQLQuery7.sql
 SQL_Case_Studies
 1       Sales & Business Analytics                                 SQL_Case_Studies/Sales_Business_Analytics_CaseStudy.sql 
-
+2       Sales & Business Analytics                                 SQL_Case_Studies/Sales_Business_Analytics_CaseStudy.sql 
 
 
 
