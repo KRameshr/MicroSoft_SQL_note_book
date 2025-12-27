@@ -1,4 +1,4 @@
-# SQL Case Studies by K Ramesh
+# SQL Case Studies 
 
 This repository contains two real-world SQL case studies demonstrating **Sales & Business Analytics** and **Banking Customer Transaction Analysis**. These projects showcase advanced SQL skills applied to practical business scenarios.
 
