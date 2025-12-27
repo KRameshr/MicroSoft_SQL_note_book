@@ -95,6 +95,15 @@ As a Database Developer for an international bank, the goal is to analyze custom
 - SQL Server Management Studio (SSMS)  
 
 ---
+```
+Folder Structure
+SQL_Case_Studies/
+│
+├── Sales_Business_Analytics_CaseStudy.sql
+├── Banking_Transactions_CaseStudy.sql
+└── README.md
+```
+----
 
 ## Author
 **K Ramesh**  
