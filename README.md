@@ -13,7 +13,7 @@ This repository includes short notes, sample queries, and practical exercises.
 - ✔ Real-world SQL Case Studies:
     - Sales & Business Analytics
     - Banking Customer Transaction Analysis
-- ✔  Project Studies: 
+- ✔  Project Studie: 
     - AdventureWorks Customer & Sales Analysis
     
 
