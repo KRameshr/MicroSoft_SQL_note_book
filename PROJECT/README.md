@@ -41,13 +41,3 @@ The project addresses:
   - Filtering with date functions (YEAR(), MONTH())  
   - Retrieving specific customer transactions
 
----
-
-## Learning Outcomes
-- Practical experience with querying a **large relational database**.  
-- Ability to analyze transactional data and generate business insights.  
-- Strengthened SQL skills: joins, aggregation, filtering, and data analysis.
-
----
-
-## File Structure
