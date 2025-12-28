@@ -4,6 +4,7 @@ This repository includes short notes, sample queries, and practical exercises.
 
 ---
 
+
 ## What this repo includes
 - ✔ SQL fundamentals  
 - ✔ Commands & syntax  
@@ -12,6 +13,9 @@ This repository includes short notes, sample queries, and practical exercises.
 - ✔ Real-world SQL Case Studies:
     - Sales & Business Analytics
     - Banking Customer Transaction Analysis
+- ✔  Project Studies: 
+    - AdventureWorks Customer & Sales Analysis
+    
 
 ---
 
