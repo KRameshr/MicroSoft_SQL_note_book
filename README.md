@@ -48,5 +48,5 @@ This repository includes short notes, sample queries, and practical exercises.
 | 1  | AdventureWorks_Customer_Sales_Analysis        | PROJECT/ AdventureWorks_Customer_Sales_Analysis.sql |
 
 ## Status
-- 🟢 Work in progress
+- 🟢 Completed
 
